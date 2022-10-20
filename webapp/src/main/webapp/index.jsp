@@ -2,7 +2,7 @@
   <div class="container">
     <h1>DevOps Learning Project Q4 2022</h1>
     <br>
-    <h1>New User Registration</h1>
+    <h1>New Student Registration</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
