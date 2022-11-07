@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>DevSecOps Learning Project Q4 2022</h1>
+    <h1>DevSecOps Student Learning Project Q4 2022</h1>
     <br>
     <h1>New Student Registration</h1>
     <p>Please fill in this form to create an account.</p>
